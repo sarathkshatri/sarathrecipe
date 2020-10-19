@@ -1,0 +1,1 @@
+web: gunicorn TastyRecipes.wsgi --log-file -
